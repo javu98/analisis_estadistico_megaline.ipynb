@@ -23,6 +23,7 @@ El objetivo es analizar el comportamiento de los clientes de Megaline para deter
   - Pandas: Procesamiento y análisis de datos.
   - NumPy: Operaciones matemáticas.
   - Matplotlib y Seaborn: Visualización de datos.
+  - Test de hipótesis.
 
 ## Cómo utilizarlo 
 1. Clona este repositorio. 
